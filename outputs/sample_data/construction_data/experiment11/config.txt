@@ -1,0 +1,5 @@
+config_file: configs/seesaw_loss/cascade_mask_rcnn_r101_fpn_random_seesaw_loss_mstrain_2x_lvis_v1.py
+checkpoint_file: checkpoints/seesaw_loss/cascade_mask_rcnn_r101_fpn_random_seesaw_loss_mstrain_2x_lvis_v1-71e2215e.pth
+data_path: data/sample_data/construction_data
+output_directory: outputs/sample_data/construction_data/experiment11
+cuda_device: 0
